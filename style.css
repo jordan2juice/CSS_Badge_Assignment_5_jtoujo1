@@ -8,26 +8,25 @@ body {
 }
 
 .title {
-  font-family: 'roboto', sans-serif;
+  font-family: "roboto", sans-serif;
   padding: 10px;
-  Color: maroon;
+  color: maroon;
   text-align: center;
 }
 
-.navbar ul{
+.navbar ul {
   list-style: none;
   text-align: center;
 }
 
-.navbar li{
+.navbar li {
   display: inline-block;
 }
 
-.navbar{
+.navbar {
   overflow: hidden;
   background-color: #333;
 }
-
 
 .navbar a {
   float: left;
@@ -38,10 +37,9 @@ body {
   text-decoration: none;
 }
 
-
 .navbar a:hover {
   background: #ddd;
-  color: black;
+  color: grey;
 }
 
 /* Below is the code for my Index page. */
@@ -51,18 +49,18 @@ body {
 }
 
 h2 {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   padding: 10px;
-  Color: red;
+  color: red;
 }
 
 .content {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   padding: 10px;
 }
 
 footer {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   padding: 10px;
   border-top: 2px solid #800000;
   color: maroon;
@@ -70,7 +68,7 @@ footer {
 
 /* Below is the code for the menu page. */
 .ribs {
-  Width: 75%;
+  width: 75%;
   margin: auto;
   text-align: left;
   justify-content: center;
@@ -86,26 +84,26 @@ footer {
 }
 
 .ribs h2 {
-  margin: 20px
+  margin: 20px;
 }
-.ribs p{
+.ribs p {
   padding: 5px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 /* This part is for the menu page. */
 
 .context h1 {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   padding: 10px;
-  Color: maroon;
+  color: maroon;
   text-align: center;
 }
 
 .context h3 {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   padding: 10px;
-  Color: red;
+  color: red;
   text-align: center;
 }
 
@@ -118,7 +116,7 @@ footer {
 }
 
 .menu {
-  Width: 50%;
+  width: 50%;
   margin: auto;
   margin-bottom: 30px;
   text-align: left;
@@ -151,5 +149,3 @@ footer {
   border-collapse: collapse;
   text-align: center;
 }
-
-
