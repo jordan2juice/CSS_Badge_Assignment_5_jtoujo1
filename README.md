@@ -10,4 +10,4 @@ Used HTML and CSS for the coding
 
 ## Credits
 
-All photos
+All photos come from Pexels.com
