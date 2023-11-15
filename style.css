@@ -1,0 +1,155 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  margin: 0px;
+}
+
+.title {
+  font-family: 'roboto', sans-serif;
+  padding: 10px;
+  Color: maroon;
+  text-align: center;
+}
+
+.navbar ul{
+  list-style: none;
+  text-align: center;
+}
+
+.navbar li{
+  display: inline-block;
+}
+
+.navbar{
+  overflow: hidden;
+  background-color: #333;
+}
+
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+
+/* Below is the code for my Index page. */
+
+.hero img {
+  width: 100%;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  padding: 10px;
+  Color: red;
+}
+
+.content {
+  font-family: 'Roboto', sans-serif;
+  padding: 10px;
+}
+
+footer {
+  font-family: 'Roboto', sans-serif;
+  padding: 10px;
+  border-top: 2px solid #800000;
+  color: maroon;
+}
+
+/* Below is the code for the menu page. */
+.ribs {
+  Width: 75%;
+  margin: auto;
+  text-align: left;
+  justify-content: center;
+}
+
+.ribs img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  float: left;
+  margin: 20px;
+}
+
+.ribs h2 {
+  margin: 20px
+}
+.ribs p{
+  padding: 5px;
+  font-family: 'Roboto', sans-serif;
+}
+
+/* This part is for the menu page. */
+
+.context h1 {
+  font-family: 'Roboto', sans-serif;
+  padding: 10px;
+  Color: maroon;
+  text-align: center;
+}
+
+.context h3 {
+  font-family: 'Roboto', sans-serif;
+  padding: 10px;
+  Color: red;
+  text-align: center;
+}
+
+.context img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 300px;
+  width: 400px;
+}
+
+.menu {
+  Width: 50%;
+  margin: auto;
+  margin-bottom: 30px;
+  text-align: left;
+  justify-content: center;
+}
+
+.menu thead {
+  border: 2px solid #800000;
+  padding: 20px;
+  background-color: #800000;
+  color: white;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.menu tbody {
+  border: 2px solid #800000;
+  padding: 20px;
+  background-color: #f2f2f2;
+  color: maroon;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.menu tfoot {
+  border: 2px solid #800000;
+  padding: 20px;
+  background-color: #800000;
+  color: white;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+
